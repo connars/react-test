@@ -1,0 +1,21 @@
+.benefits {
+    padding-top: 20px;
+    background-color: #F5A327;
+    height: 280px;
+    width: 100%;
+}
+
+.cards{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.card_item {
+    width: 260px;
+    height: 85px;
+    border: 1px solid black;
+
+    padding: 25px;
+}
+
